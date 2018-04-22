@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'about', to: 'static#students'
+  get 'students', to: 'static#students'
 end
