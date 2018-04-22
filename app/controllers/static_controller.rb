@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
   def index
-    render "hello_world"
+    render "index.html"
   end
 
 end
